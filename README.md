@@ -32,4 +32,4 @@ check_profanity(word_list_file, bad_words_file, rating="R")
 ### Anything to keep in mind?
 Certainly! Have your audio files in `.wav` format. 
 
-Disclaimer: It's meant to be fun-project while providing support and feature is suppose to be religion for me. Drop a hi, on github if you have some features in mind. https://github.com/sleepingcat4/audio-profanity
+Disclaimer: It's meant to be fun-project while providing support and feature is suppose to be religion for me. Drop a hi, on github if you have some features in mind. https://github.com/sleepingcat4/audio-profanity https://colab.research.google.com/drive/1myh2W3f4HMXGnAdfb0OanC3f8QhyBKIZ?usp=sharing
